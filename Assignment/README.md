@@ -3,7 +3,8 @@
 On **10 December 2024**, our course conducted a visit to **UTM Digital**, where we explored the **Multipurpose Room**, **Sangfor Room**, and **Open Office**. The **Sangfor Room** left a strong impression on me due to its advanced functionalities. **Sangfor** acts as a **firewall** 🔒, effectively preventing the theft of data belonging to UTM. Additionally, it features an **Intrusion Prevention System (IPS)** and **Intrusion Detection System (IDS)** to enhance security by detecting and mitigating potential threats 🛡️.  
 
 To make the documentation of such visits more engaging 🎥, we should focus on enhancing **video editing skills** 🖌️ to produce more attractive and professional content. This would ensure that the key highlights and technical aspects of the visit are presented effectively and appeal to a wider audience 🌟.
-
+### video link:
+[industry visit](https://www.youtube.com/watch?v=cOqks6ogA9E)
 ---
 
 ## Assignment 3 (Industry Talk) 🎤  
